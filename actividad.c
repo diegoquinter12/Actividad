@@ -9,10 +9,4 @@ int main() {
 
     printf("Ingresar el segundo valor: ");
     scanf("%d", &b);
- // Suma
-    printf("Suma: %d\n", a + b);
-// Resta
-    printf("Resta: %d\n", a - b);
-  
-    return 0;
     }
